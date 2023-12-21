@@ -1,0 +1,13 @@
+{
+    "API_TOKEN": "6473479435:AAEOkFJcDr5WbJi8TB2inkHRGmV-wEApNHg",
+    "ADMIN_PASSWORD": "admin123",
+    "CSV_FILE": "crypto_data.csv",
+    "IMAGE_DIR": "images",
+    "USER_STATS_FILE": "user_stats.csv",
+    "USER_IDS_FILE": "user_ids.txt",
+    "ADMIN_USER_IDS": [
+        567643757,
+        342120556,
+        6656186967
+    ]
+}

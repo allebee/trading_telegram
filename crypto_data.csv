@@ -1,0 +1,3 @@
+coin,day_price,day_image,week_price,week_image,month_price,month_image
+Bitcoin,123.0,images/Bitcoin/day.png,38500.0,images/Bitcoin/week.png,999.0,images/Bitcoin/month.png
+Ethereum,2800.0,images/Ethereum/day.png,10000.0,images/Ethereum/week.png,10000.0,images/Ethereum/month.png
